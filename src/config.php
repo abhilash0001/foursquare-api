@@ -1,0 +1,10 @@
+<?php
+
+/*
+	Foursquare
+*/
+
+defined('FOURSQUARE_CLIENT_KEY') ? NULL : define('FOURSQUARE_CLIENT_KEY', 'YOUR_CLIENT_KEY');
+defined('FOURSQUARE_CLIENT_SECRET') ? NULL : define('FOURSQUARE_CLIENT_SECRET', 'YOUR_CLIENT_SECRET');
+
+?>
